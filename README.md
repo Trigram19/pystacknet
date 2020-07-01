@@ -1,3 +1,5 @@
+# NOTICE - NOT THE ORIGINAL VERSION - JUST UPDATING PYSTACKNET FOR THE LATEST VERSION OF SKLEARN.
+
 ## About
 
 `pystacknet` is a light python version of [StackNet](https://github.com/kaz-Anova/StackNet) which was originally made in Java.
